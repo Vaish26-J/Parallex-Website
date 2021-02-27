@@ -1,0 +1,145 @@
+body,html{
+    height: 100%;
+    margin: 0%;
+}
+
+::-webkit-scrollbar{
+     opacity:0;
+     background: transparent;
+}
+::-webkit-scrollbar-track{
+    opacity:0;
+     background: transparent;
+}
+
+.all{
+    background-image: url(https://cdn.wallpapersafari.com/35/81/OTMswK.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.allcnt {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    padding: 5%;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-family: 'Francois One', sans-serif;
+
+}
+.allcnt .border{
+    background-color: gray;
+    color: white;
+    padding: 2%;
+}
+.name{
+    
+    color: white;
+    text-transform: uppercase;
+    padding: 5%;
+    font-size: 50px;
+    letter-spacing: 15px;
+    text-transform: uppercase; 
+    text-align: center;
+    font-family: 'Francois One', sans-serif;
+}
+ .name .bts{
+    color: white;
+    padding: 2%;
+}
+
+h1{
+    text-align: center;
+    background-color: honeydew;
+    letter-spacing: 6px;
+    font-family: 'Montserrat', sans-serif;
+}
+.different h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight :300;
+    padding: 15%;
+    letter-spacing: 10px;
+    color:rgb(31, 31, 31)
+    
+   
+}
+.rm{
+    background-image: url(https://images.news18.com/ibnlive/uploads/2020/09/1599887865_fi-rm.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60%; 
+    opacity: 0.8;
+}
+.jinie{
+    background-image: url(https://filmdaily.co/wp-content/uploads/2020/09/jin-lede-1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60%; 
+    opacity: 0.8;
+}
+.sugar{
+    background-image: url(https://wallpaper.dog/large/16989525.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60%; 
+    opacity: 0.7;
+}
+.hope{
+    background-image: url(https://www.allkpop.com/upload/2020/08/content/101909/1597100948-inshot-20200811-043623061.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60%; 
+    opacity: 0.7;
+}
+.jiminie{
+    background-image: url(https://static.billboard.com/files/media/Jimin-bts-press-photo-2017-billboard-1548-compressed.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60%; 
+    opacity: 0.8;
+}
+.v{
+    background-image: url(https://miro.medium.com/max/1024/1*xdSmvnKdDE87ZJIJukB5vQ.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60%; 
+    opacity: 0.8;
+}
+.jk{
+    background-image: url(https://www.kpoppost.com/wp-content/uploads/2020/02/jungkook.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60%; 
+    opacity: 0.7;
+}
+.final{
+    background-image: url(https://wallpapercave.com/wp/wp3730079.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
